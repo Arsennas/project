@@ -1,0 +1,25 @@
+.main{
+  display: flex;
+  justify-content: space-evenly;
+}
+.second{
+  text-align: center;
+  margin-top: 40px;
+  color: whitesmoke;
+}
+.second strong{
+  font-size: 35px;
+}
+.second p {
+  font-size: 17px;
+}
+.second button{
+  background-color: #ffbd00;
+  height: 32px;
+  width: 140px;
+  border: none;
+  border-radius: 7px;
+}
+.second button a{
+  color: white;
+}

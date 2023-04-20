@@ -1,0 +1,23 @@
+.main{
+  display: flex;
+  background-color: #7f5539;
+  padding: 15px;
+  justify-content: space-evenly;
+  margin-top: 70px;
+}
+.third{
+  display: flex;
+  gap: 20px;
+  margin-top: 7px;
+}
+.third p{
+  color: aliceblue;
+}
+.second img{
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 20px;
+}
+.first p{
+  color: aliceblue;
+}

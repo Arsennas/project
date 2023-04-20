@@ -1,0 +1,11 @@
+.main{
+  margin-top: 60px;
+}
+.main p{
+  color: aliceblue;
+  text-align: center;
+  font-size: 17px;
+}
+.main p a{
+  color: antiquewhite;
+}

@@ -1,0 +1,15 @@
+.search .pop{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.search .input input{
+  width: 205px;
+  height: 27px;
+}
+.search  button{
+  height: 27px;
+}
+.search{
+  margin-top: 20px;
+}

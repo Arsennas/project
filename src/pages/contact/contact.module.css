@@ -1,0 +1,24 @@
+.main{
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.main p {
+  color: aliceblue;
+  font-size: 18px;
+}
+.main strong{
+  font-size: 23px;
+}
+.img1 img{
+  height: 50px;
+  width: 140px;
+}
+.img2 img{
+  height: 60px;
+  width: 270px;
+}
+.img3 img{
+  height: 80px;
+  width: 360px;
+}
